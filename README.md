@@ -9,5 +9,5 @@ found the issues which were hampering some segment of users
 
 Contributors:
 
-Sameeksha Aithal (https://www.linkedin.com/in/sameeksha-aithal/)
+Sameeksha Aithal (https://www.linkedin.com/in/sameeksha-aithal/) <br>
 Fang Huang (https://www.linkedin.com/in/fang-regina-huang/)
