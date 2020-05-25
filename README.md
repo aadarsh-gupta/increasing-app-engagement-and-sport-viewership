@@ -7,7 +7,7 @@ Here is one approach in which, we analyzed a major sporting organizations data a
 
 
 <b>Adobe Analytics Challenge:</b>  
-"https://www.adobeanalyticschallenge.com;"/>
+https://www.adobeanalyticschallenge.com
   
   
 Contributors:
