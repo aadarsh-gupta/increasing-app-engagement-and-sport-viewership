@@ -1,4 +1,4 @@
-# Increasing App engagement and sport viewership for a sports organization
+# Increasing App engagement and sport viewership
 
 Too many times, we do not know what is causing our users to stop using the app or stop turning up to the games.
 We try multitudes of things, but they go to no avail.
