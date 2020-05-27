@@ -3,10 +3,13 @@
 Too many times, we do not know what is causing our users to stop using the app or stop turning up to the games.
 We try multitudes of things, but they go to no avail.
 
-Here is one approach in which, we analyzed a major sporting organizations data and found the issues which were hampering some segment of users. This was for the Adobe Analytics Challenge 2020. 
+Here is one approach in which, we analyzed a major sporting organizations data and found the issues which were hampering some segment of users. This was for the <i>Adobe Analytics Challenge 2020.</i> 
 
 
-<b>Adobe Analytics Challenge:</b>  
+
+
+
+## Adobe Analytics Challenge:
 https://www.adobeanalyticschallenge.com
   
   
