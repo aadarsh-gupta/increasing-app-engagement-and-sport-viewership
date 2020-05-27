@@ -12,5 +12,5 @@ https://www.adobeanalyticschallenge.com
   
 Contributors:
 
-* Sameeksha Aithal (https://www.linkedin.com/in/sameeksha-aithal/) <br>
+* Sameeksha Aithal (https://www.linkedin.com/in/sameeksha-aithal/) | (https://www.github.com/saaithal/)<br>
 * Fang Huang (https://www.linkedin.com/in/fang-regina-huang/)
